@@ -1,0 +1,3 @@
+pythonping==1.0.16
+pywin32==300
+schedule==1.1.0
